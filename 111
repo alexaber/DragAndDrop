@@ -108,3 +108,12 @@ font-family: Montserrat Light;
 	text-align: justify;
 	margin: 0px;
 	font-size: 1.2em;
+font-family: Montserrat Light;
+	color: black;
+	padding: 5px;
+	padding-left: 11%;
+	padding-right: 11%;
+	text-align: justify;
+	margin: 0px;
+	font-size: 1.2em;
+
